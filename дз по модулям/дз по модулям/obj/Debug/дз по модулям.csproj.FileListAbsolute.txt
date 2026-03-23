@@ -1,0 +1,8 @@
+E:\CSharp_projects\дз по модулям\дз по модулям\bin\Debug\дз по модулям.exe.config
+E:\CSharp_projects\дз по модулям\дз по модулям\bin\Debug\дз по модулям.exe
+E:\CSharp_projects\дз по модулям\дз по модулям\bin\Debug\дз по модулям.pdb
+E:\CSharp_projects\дз по модулям\дз по модулям\obj\Debug\дз по модулям.csproj.AssemblyReference.cache
+E:\CSharp_projects\дз по модулям\дз по модулям\obj\Debug\дз по модулям.csproj.CoreCompileInputs.cache
+E:\CSharp_projects\дз по модулям\дз по модулям\obj\Debug\дз по модулям.exe
+E:\CSharp_projects\дз по модулям\дз по модулям\obj\Debug\дз по модулям.pdb
+E:\CSharp_projects\дз по модулям\дз по модулям\obj\Debug\дз по модулям.exe.config
