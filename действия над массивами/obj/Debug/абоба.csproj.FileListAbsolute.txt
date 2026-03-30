@@ -1,0 +1,8 @@
+E:\CSharp_projects\абоба\абоба\bin\Debug\абоба.exe.config
+E:\CSharp_projects\абоба\абоба\bin\Debug\абоба.exe
+E:\CSharp_projects\абоба\абоба\bin\Debug\абоба.pdb
+E:\CSharp_projects\абоба\абоба\obj\Debug\абоба.csproj.AssemblyReference.cache
+E:\CSharp_projects\абоба\абоба\obj\Debug\абоба.csproj.CoreCompileInputs.cache
+E:\CSharp_projects\абоба\абоба\obj\Debug\абоба.exe
+E:\CSharp_projects\абоба\абоба\obj\Debug\абоба.pdb
+E:\CSharp_projects\абоба\абоба\obj\Debug\абоба.exe.config
