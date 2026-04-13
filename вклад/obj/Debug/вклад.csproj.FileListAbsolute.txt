@@ -1,0 +1,7 @@
+E:\CSharp_projects\вклад\вклад\bin\Debug\вклад.exe.config
+E:\CSharp_projects\вклад\вклад\bin\Debug\вклад.exe
+E:\CSharp_projects\вклад\вклад\bin\Debug\вклад.pdb
+E:\CSharp_projects\вклад\вклад\obj\Debug\вклад.csproj.AssemblyReference.cache
+E:\CSharp_projects\вклад\вклад\obj\Debug\вклад.csproj.CoreCompileInputs.cache
+E:\CSharp_projects\вклад\вклад\obj\Debug\вклад.exe
+E:\CSharp_projects\вклад\вклад\obj\Debug\вклад.pdb
