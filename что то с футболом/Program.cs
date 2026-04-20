@@ -29,12 +29,12 @@ namespace что_то_с_футболом
             Results(goalsScored, goalsConceded);
 
             // г) Количество выигрышей, ничьих и проигрышей
-            Count(goalsScored, goalsConceded, out int winsCount2, out int drawsCount, out int lossesCount2);
-            Console.WriteLine($"г) Выигрышей: {winsCount2}, Ничьих: {drawsCount}, Проигрышей: {lossesCount2}");
+            Count(goalsScored, goalsConceded, out int wins, out int draws, out int losses);
+            Console.WriteLine($"г) Выигрышей: {wins}, Ничьих: {draws}, Проигрышей: {losses}");
 
             // д) Игры с разностью >= 3
-            int gamesWithDiff3OrMore = Count_with_diff(goalsScored, goalsConceded);
-            Console.WriteLine($"д) Игр с разностью забитых и пропущенных >= 3: {gamesWithDiff3OrMore}");
+            int diff = Count_with_diff(goalsScored, goalsConceded);
+            Console.WriteLine($"д) Игр с разностью забитых и пропущенных >= 3: {diff}");
 
             // е) Общее число очков
             int totalPoints = Calculate_points(goalsScored, goalsConceded);
